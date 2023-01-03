@@ -39,4 +39,30 @@ I'm trying to join Zoomcamp engineering data for the 2023 cohort.
 * Visualizing the data with google data studio and metabase
 
 ### Week 5: Batch processing
+* Batch processing
+* What is Spark
+* Spark Dataframes
+* Spark SQL
+* Internals: GroupBy and joins
 
+### Week 6: Streaming
+* Introduction to Kafka
+* Schemas (avro)
+* Kafka Streams
+* Kafka Connect and KSQL
+
+### Week 7, 8 & 9: Project
+* Week 7 and 8: working on your project
+* Week 9: reviewing your peers
+
+## Technologies
+* *Google Cloud Platform (GCP)* : Cloud-based auto-scaling platform by Google.
+  * *Google Cloud Storage (GCS)* : Data Lake
+  * *BigQuery* : Data Warehouse
+* *Terraform* : Infrastructure-as-Code (IaC)
+* *Docker* : Containerization
+* *SQL* : Data Analysis and Exploration
+* *Airflow* : Pipeline orchestration
+* *dbt* : Data transformation
+* *Spark* : Distributed processing
+* *Kafka* : Streaming
