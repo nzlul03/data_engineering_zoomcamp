@@ -1,7 +1,6 @@
 # Data Engineering Zoomcamp
 
 I'm trying to join Zoomcamp engineering data for the 2023 cohort.
-Start: 16 January 2023.
 
 ## Syllabus
 ### Week 1: Introduction & Prerequisites
